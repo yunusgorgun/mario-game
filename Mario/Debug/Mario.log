@@ -1,0 +1,56 @@
+﻿  Game.cpp
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(24,52): warning C4244: '=': conversion from 'const T' to 'float', possible loss of data
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(24,52): warning C4244:         with
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(24,52): warning C4244:         [
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(24,52): warning C4244:             T=int
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(24,52): warning C4244:         ]
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(25,53): warning C4244: '=': conversion from 'const T' to 'float', possible loss of data
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(25,53): warning C4244:         with
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(25,53): warning C4244:         [
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(25,53): warning C4244:             T=int
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(25,53): warning C4244:         ]
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(28,69): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(28,69): warning C4244:         with
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(28,69): warning C4244:         [
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(28,69): warning C4244:             T=int
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(28,69): warning C4244:         ]
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(28,54): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(28,54): warning C4244:         with
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(28,54): warning C4244:         [
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(28,54): warning C4244:             T=int
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(28,54): warning C4244:         ]
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(30,54): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(30,54): warning C4244:         with
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(30,54): warning C4244:         [
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(30,54): warning C4244:             T=int
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(30,54): warning C4244:         ]
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(32,53): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(32,53): warning C4244:         with
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(32,53): warning C4244:         [
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(32,53): warning C4244:             T=int
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(32,53): warning C4244:         ]
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(34,53): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(34,53): warning C4244:         with
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(34,53): warning C4244:         [
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(34,53): warning C4244:             T=int
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(34,53): warning C4244:         ]
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(36,54): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(36,54): warning C4244:         with
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(36,54): warning C4244:         [
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(36,54): warning C4244:             T=int
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(36,54): warning C4244:         ]
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(38,54): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(38,54): warning C4244:         with
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(38,54): warning C4244:         [
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(38,54): warning C4244:             T=int
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(38,54): warning C4244:         ]
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(40,54): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(40,54): warning C4244:         with
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(40,54): warning C4244:         [
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(40,54): warning C4244:             T=int
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(40,54): warning C4244:         ]
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(398,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(399,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(479,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Mario\Game.cpp(393,1): warning C4715: 'Game::onFloor': not all control paths return a value
+  Mario.vcxproj -> D:\Yunus\Lectures\8th_Term\EHB354E Object Oriented Programming-Bitti\Project\Grup28.1\Debug\Mario.exe
